@@ -1,5 +1,6 @@
 # Godot Engine Physics Toggle Plugin
-Allows you to enable physics within the editor to help with building scenes.
+Godot 4 plugin which allows you to enable physics within the editor to help with building scenes.
+Note: This plugin is for Godot 4.0, the latest version working with 3.x is commit [127a74d](https://github.com/andersmmg/godot-physics-toggle/commit/127a74d4a6c6eafee8e6b9bbb9210f4e3c7be252)
 
 ## Installation
 Copy the folder addons/editor_physics into your project and activate the add-on from the Project -> Project Settings... -> Plugins menu.
